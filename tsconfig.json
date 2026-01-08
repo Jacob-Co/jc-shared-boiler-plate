@@ -1,5 +1,4 @@
 {  
-  "extends": "../tsconfig.base.json",
   "$schema": "https://www.schemastore.org/tsconfig",
   "_version": "24.0.0",
 
@@ -55,6 +54,5 @@
     "isolatedModules": true,
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force"
-  },
-  "include": ["src"]
+  }
 }
